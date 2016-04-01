@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/samsung/j7eltexx" name="MrRitwik97/device_samsung_j7eltexx" remote="github" revision="cm-13.0" />
+  <project path="vendor/samsung/j7eltexx" name="MrRitwik97/vendor_samsung_j7eltexx" remote="github" revision="cm-13.0" />
+  <project path="kernel/samsung/j7eltexx" name="MrRitwik97/kernel_samsung_j7eltexx" remote="github" revision="master" />
+</manifest>
